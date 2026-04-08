@@ -34,11 +34,8 @@ The following key entities are included:
 
 ## ER Diagram
 
-(Add your diagram image here)
-
-```id="img01"
 ![ER Diagram](./erd.png)
-```
+
 ## Files
 
 * `erd.png` → ER Diagram image
